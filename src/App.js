@@ -1,9 +1,16 @@
+
+import Container from "./components/Container";
+
 function App() {
   return (
     <div>
-      <h2>Let's get started!</h2>
+      <Container />
     </div>
   );
+
 }
+
+
+
 
 export default App;

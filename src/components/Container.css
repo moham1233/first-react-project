@@ -1,0 +1,8 @@
+.container {
+    padding: 1rem;
+    background-color: rgb(218, 218, 218);
+    margin: 2rem auto;
+    height: 30rem;
+    width: 60rem;
+    max-width: 95%;
+  }
