@@ -5,4 +5,5 @@
     height: 30rem;
     width: 60rem;
     max-width: 95%;
+    overflow: scroll;
   }

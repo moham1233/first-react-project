@@ -7,6 +7,16 @@ const Container = () => {
       <NameCards />
       <NameCards />
       <NameCards />
+      <NameCards />
+      <NameCards />
+      <NameCards />
+      <NameCards />
+      <NameCards />
+      <NameCards />
+      <NameCards />
+      <NameCards />
+      <NameCards />
+      <NameCards />
    
     </div>
   );
